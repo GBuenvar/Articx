@@ -8,6 +8,12 @@ mat = matrix(c(0,1,2, 2,0,-1, -1,1,0), nrow = 3, ncol = 3, byrow = TRUE)
 mat = matrix(sample(c(-5:5,0), 100, replace = TRUE), nrow = 10, ncol = 10)
 diag(mat) = 0
 
+# read the matrix from a file
+mat = read.table("matrix_decoded.csv", sep=";")
+mat = as.matrix(mat
+                )
+
+
 # create a vector of integers from 1 to the number of rows of the matrix
 items = 1:nrow(mat)
 
