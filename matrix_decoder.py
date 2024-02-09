@@ -4,7 +4,7 @@ import argparse
 
 parser = argparse.ArgumentParser(description='Decode a matrix')
 
-parser.add_argument('file', metavar='file', type=str, help='the file to parse')
+parser.add_argument('file', metavar='file', type=str, help='file containing the matrix to decode, which is composed by elements separated by ";" and lines separated by "\\n". The matrix elements are composed by "+" and "-" and may contain some of them in parenthesis.')
 parser.add_argument("-p", '--ignore-parenthesis', dest='ignore_parenthesis', action='store_true', help='ignore the parenthesis', default=False)
 
 args = parser.parse_args()
@@ -37,3 +37,5 @@ with open(args.file, 'r') as f:
 with open(args.file.replace(".", "_decoded."), 'w') as f:
     for line in matrix:
         f.write(";".join([str(elem) for elem in line]) + "\n")
+
+print("File decoded and saved as: " + args.file.replace(".", "_decoded."))
