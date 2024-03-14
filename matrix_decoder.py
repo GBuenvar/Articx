@@ -55,7 +55,8 @@ def decode(string, ignore_parenthesis=True):
               between_parenthesis.count("-")
 
     if outside_parenthesis == "":
-        if between_parenthesis == "":
+        if between_parenthesis == "" or between_parenthesis == "0":
+            # return 0 if the string is empty or if the string is 0
             return 0
         else: 
             sum_par = between_parenthesis.count("+") -\
