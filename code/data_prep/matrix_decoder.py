@@ -56,12 +56,15 @@ def decode(string, ignore_parenthesis=True):
 
     if ignore_parenthesis:
         # Only count the "+" and "-" outside the parenthesis
-        result = outside_parenthesis.count("+") - outside_parenthesis.count("-")
+        result = outside_parenthesis.count("+") - \
+            outside_parenthesis.count("-")
     else:
         # Count the "+" and "-" both outside and inside the parenthesis
-        result = outside_parenthesis.count("+") - outside_parenthesis.count("-") +\
+        result = outside_parenthesis.count("+") - \
+            outside_parenthesis.count("-") +\
             between_parenthesis.count("+") - between_parenthesis.count("-")
-    if (result == 0) and (outside_parenthesis.count("0") == 0) and between_parenthesis != "": 
+    if (result == 0) and (outside_parenthesis.count("0") == 0) and \
+            between_parenthesis != "":
         sum_par = between_parenthesis.count("+") -\
             between_parenthesis.count("-")
         if sum_par > 0:
@@ -85,8 +88,9 @@ with open(args.file, 'r') as f:
 # save the result in a file with the same name as
 # the input file + "decoded" and the same extension
 
-with open(args.file.replace(".", "_decoded."), 'w') as f:
+output_file = args.file.replace(".csv", "_decoded.csv")
+with open(output_file, 'w') as f:
     for line in matrix:
         f.write(";".join([str(elem) for elem in line]) + "\n")
 
-print("File decoded and saved as: " + args.file.replace(".", "_decoded."))
+print(f"File decoded and saved as: {output_file}")
