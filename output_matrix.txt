@@ -1,0 +1,2669 @@
+Reading file: Final_matrix.csv
+Ignore parenthesis: True
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+ -)
+outside_parenthesis:  
+between_parenthesis:  + -
+sum_par:  0
+result:  0.5
+
+string:  (+ -)
+outside_parenthesis:  
+between_parenthesis:  + -
+sum_par:  0
+result:  0.5
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + -
+outside_parenthesis:  + -
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + -
+outside_parenthesis:  + -
+between_parenthesis:  
+result:  0
+
+string:  (+ -)
+outside_parenthesis:  
+between_parenthesis:  + -
+sum_par:  0
+result:  0.5
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - (-)
+outside_parenthesis:  - 
+between_parenthesis:  -
+result:  -1
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + + +
+outside_parenthesis:  + + +
+between_parenthesis:  
+result:  3
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+)
+outside_parenthesis:  
+between_parenthesis:  +
+sum_par:  1
+result:  0.9
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+ -)
+outside_parenthesis:  
+between_parenthesis:  + -
+sum_par:  0
+result:  0.5
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - - -
+outside_parenthesis:  - - -
+between_parenthesis:  
+result:  -3
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + + +
+outside_parenthesis:  + + +
+between_parenthesis:  
+result:  3
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - (-)
+outside_parenthesis:  - 
+between_parenthesis:  -
+result:  -1
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  ++ 
+outside_parenthesis:  ++ 
+between_parenthesis:  
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + -
+outside_parenthesis:  + -
+between_parenthesis:  
+result:  0
+
+string:  + + +
+outside_parenthesis:  + + +
+between_parenthesis:  
+result:  3
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+ -)
+outside_parenthesis:  
+between_parenthesis:  + -
+sum_par:  0
+result:  0.5
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + -
+outside_parenthesis:  + -
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (-)
+outside_parenthesis:  
+between_parenthesis:  -
+sum_par:  -1
+result:  0.1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+)
+outside_parenthesis:  
+between_parenthesis:  +
+sum_par:  1
+result:  0.9
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - - -
+outside_parenthesis:  - - -
+between_parenthesis:  
+result:  -3
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+)
+outside_parenthesis:  
+between_parenthesis:  +
+sum_par:  1
+result:  0.9
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + -
+outside_parenthesis:  + -
+between_parenthesis:  
+result:  0
+
+string:  + + (+)
+outside_parenthesis:  + + 
+between_parenthesis:  +
+result:  2
+
+string:  + 
+outside_parenthesis:  + 
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + + (+)
+outside_parenthesis:  + + 
+between_parenthesis:  +
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - 
+outside_parenthesis:  - 
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + (+)
+outside_parenthesis:  + 
+between_parenthesis:  +
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  ++
+outside_parenthesis:  ++
+between_parenthesis:  
+result:  2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+)
+outside_parenthesis:  
+between_parenthesis:  +
+sum_par:  1
+result:  0.9
+
+string:  + + +
+outside_parenthesis:  + + +
+between_parenthesis:  
+result:  3
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+)
+outside_parenthesis:  
+between_parenthesis:  +
+sum_par:  1
+result:  0.9
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (-)
+outside_parenthesis:  
+between_parenthesis:  -
+sum_par:  -1
+result:  0.1
+
+string:  + + - -
+outside_parenthesis:  + + - -
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+ -)
+outside_parenthesis:  
+between_parenthesis:  + -
+sum_par:  0
+result:  0.5
+
+string:  + + - -
+outside_parenthesis:  + + - -
+between_parenthesis:  
+result:  0
+
+string:  + 
+outside_parenthesis:  + 
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + + +
+outside_parenthesis:  + + +
+between_parenthesis:  
+result:  3
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - (-)
+outside_parenthesis:  - 
+between_parenthesis:  -
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  - (-)
+outside_parenthesis:  - 
+between_parenthesis:  -
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  ++ - -
+outside_parenthesis:  ++ - -
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (-)
+outside_parenthesis:  
+between_parenthesis:  -
+sum_par:  -1
+result:  0.1
+
+string:  (-)
+outside_parenthesis:  
+between_parenthesis:  -
+sum_par:  -1
+result:  0.1
+
+string:  (-)
+outside_parenthesis:  
+between_parenthesis:  -
+sum_par:  -1
+result:  0.1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + (+)
+outside_parenthesis:  + 
+between_parenthesis:  +
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + +
+outside_parenthesis:  + +
+between_parenthesis:  
+result:  2
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  - -
+outside_parenthesis:  - -
+between_parenthesis:  
+result:  -2
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  + + +
+outside_parenthesis:  + + +
+between_parenthesis:  
+result:  3
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  ++ - -
+outside_parenthesis:  ++ - -
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  -
+outside_parenthesis:  -
+between_parenthesis:  
+result:  -1
+
+string:  (+ -)
+outside_parenthesis:  
+between_parenthesis:  + -
+sum_par:  0
+result:  0.5
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+)
+outside_parenthesis:  
+between_parenthesis:  +
+sum_par:  1
+result:  0.9
+
+string:  (+)
+outside_parenthesis:  
+between_parenthesis:  +
+sum_par:  1
+result:  0.9
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  (+)
+outside_parenthesis:  
+between_parenthesis:  +
+sum_par:  1
+result:  0.9
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  (+ -)
+outside_parenthesis:  
+between_parenthesis:  + -
+sum_par:  0
+result:  0.5
+
+string:  +
+outside_parenthesis:  +
+between_parenthesis:  
+result:  1
+
+string:  0
+outside_parenthesis:  0
+between_parenthesis:  
+result:  0
+File decoded and saved as: Final_matrix_decoded.csv
